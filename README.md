@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat2308" alt="rajat2308" /></a> </p>
 
-- 💬 Ask me about **Data analytics**
+- 💬 Ask me about **Data analytics and cloud computing**
 
 - 📫 **rajatjosh2323@gmail.com**
 
