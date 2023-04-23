@@ -34,7 +34,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-rajat2308 &style=flat-square&color=232323">
 <hr>
-https://in.images.search.yahoo.com/search/images;_ylt=Awr1Sh7bY0VkvVEGv8G7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=github+image&fr2=piv-web&type=E211IN885G0&fr=mcafee#id=74&iurl=https%3A%2F%2Ferestecno.com%2Fwp-content%2Fuploads%2F2019%2F10%2Fgithub-logo.jpeg&action=click
+ <img src="https://github-readme-activity-graph-1.rajat3.repl.co/graph?username=rajat2308&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->"> -->
+
 
 ### <p align="center"> Congratulations, you found me on GitHub ! </p>
 
