@@ -34,7 +34,6 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-rajat2308 &style=flat-square&color=232323">
 <hr>
- <img src="https://github-readme-activity-graph-1.rajat3.repl.co/graph?username=rajat2308&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->"> -->
 
 
 ### <p align="center"> Congratulations, you found me on GitHub ! </p>
