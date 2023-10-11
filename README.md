@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Rajat Jos </h1>
+<h1 align="center">Hi 👋,I'm Rajat  </h1>
 <h3 align="center">CS Undergrad, cloud omputing and Data Analyst .</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat2308" alt="rajat2308" /></a> </p>
