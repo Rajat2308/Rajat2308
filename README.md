@@ -37,7 +37,8 @@
 
 
 ### <p align="center"> Congratulations, you found me on GitHub 😎 </p>
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/Rajat2308/Rajat2308/assets/111409270/55f16d3e-23c1-40a5-a546-298fe17e8b5b)
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/Rajat2308/Rajat2308/assets/111409270/4bd1c2ec-fa66-4f59-bc0c-5ad4e2866aac)
+
 
 
 
