@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,I'm Rajat Joshi</h1>
-<h3 align="center">CS Undergrad, cloud omputing and Data Analyst .</h3>
+<h3 align="center">Graduate from CSE , Expertise in DevOps and Data Engineering .</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat2308" alt="rajat2308" /></a> </p>
 
-                            - 👋 I am Currently learning AWS 
+                            - 👋 I am Currently working on upgrading my skills :)
                             - 💭 I am always up for hackathons, Lets git it done !
-                            - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
+                            - 💬 Ask me about DevOps and Data Engineering :) 
                             - ⚡ Fun fact : I love Travelling and meeting new people !
 
 <p align="center">
