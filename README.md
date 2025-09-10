@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋,I'm Rajat Joshi</h1>
 <h3 align="center"> Graduate in Computer Sience and Engineering(CSE) with expertise in DevOps and Data Engineering .</h3>
-
-<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat2308" alt="rajat2308" /></a>--> </p>
+</a>--> </p>
 
                             - 👋 I am currently working on upgrading my skills :)
                             - 💭 I am always up for hackathons- let's git it done !
